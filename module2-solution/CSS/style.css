@@ -15,15 +15,40 @@ div {
     margin: 10px;
 }
 
-section {
+#s1 {
+    font-size: large;
+    float: right;
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    border: black;
+    border-style: double;
+    width: 20%;
+    text-align: center;
+}
+
+#s2 {
     font-size: large;
     float: right;
     background-color: red;
     color: white;
-    font-weight: 500;
-    padding: 10px;
-    border: white;
-    border-style: dotted;
+    font-weight: bold;
+    border: red;
+    border-style: double;
+    width: 20%;
+    text-align: center;
+}
+
+#s3 {
+    font-size: large;
+    float: right;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    border: orange;
+    border-style: double;
+    width: 20%;
+    text-align: center;
 }
 
 .row {
