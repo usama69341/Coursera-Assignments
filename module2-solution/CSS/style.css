@@ -14,6 +14,7 @@ h1 {
 div {
     margin: 10px;
     background-color: lightgrey;
+    text-align: justify;
 }
 
 #s1 {
