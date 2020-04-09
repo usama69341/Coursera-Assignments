@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+body {
+    margin-right: 50px;
+}
+
 h1 {
     font-size: x-large;
     text-align: center;
