@@ -11,6 +11,10 @@ h1 {
     margin-bottom: 30px;
 }
 
+div {
+    margin: 10px;
+}
+
 section {
     font-size: large;
     float: right;
@@ -19,6 +23,7 @@ section {
     font-weight: 500;
     padding: 10px;
     border: white;
+    border-style: dotted;
 }
 
 .row {
@@ -26,7 +31,9 @@ section {
 }
 
 p {
-    clear: left;
+    width: 100%;
+    float: right;
+    padding: 10px;
 }
 
 
