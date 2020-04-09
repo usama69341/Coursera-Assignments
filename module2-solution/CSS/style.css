@@ -13,6 +13,7 @@ h1 {
 
 div {
     margin: 10px;
+    background-color: lightgrey;
 }
 
 #s1 {
@@ -59,6 +60,8 @@ p {
     width: 100%;
     float: right;
     padding: 10px;
+    color: black;
+    font-weight: bold;
 }
 
 
@@ -78,7 +81,7 @@ p {
     .col-lg-11,
     .col-lg-12 {
         float: left;
-        border: 1px solid green;
+        border: 1px solid black;
     }
     .col-lg-1 {
         width: 8.33%;
@@ -135,7 +138,7 @@ p {
     .col-md-11,
     .col-md-12 {
         float: left;
-        border: 1px solid green;
+        border: 1px solid black;
     }
     .col-md-1 {
         width: 8.33%;
@@ -192,7 +195,7 @@ p {
     .col-sm-11,
     .col-sm-12 {
         float: left;
-        border: 1px solid green;
+        border: 1px solid black;
     }
     .col-sm-1 {
         width: 8.33%;
