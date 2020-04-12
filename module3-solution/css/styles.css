@@ -3,3 +3,9 @@ body {
     background-color: darkgrey;
     font-family: 'Times New Roman', Times, serif;
 }
+
+#header-nav {
+    background-color: whitesmoke;
+    border-radius: 0;
+    border: 0;
+}
